@@ -106,4 +106,3 @@
     </script>
 </body>
 </html>
-<!DOCTYPE html>
